@@ -1,4 +1,4 @@
-## C based Decomposer and Decompiler.
+## C based Disassembler and Decompiler.
 
 Understand how compiled programs work underneath and eventually      build a small decompiler that can reconstruct high-level C-like code from native machine code.
 
